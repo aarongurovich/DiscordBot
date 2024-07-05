@@ -83,7 +83,7 @@ async def run_bot():
         await bot.close()
 
 async def main():
-    screenshot_path = '/Users/aarongurovich/Desktop'
+    screenshot_path = 'Your Path'
     loop = asyncio.get_running_loop()
     watcher_task = asyncio.create_task(setup_watcher(screenshot_path, loop))
 

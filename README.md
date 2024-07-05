@@ -47,7 +47,7 @@ This project is a Discord bot that monitors a specified directory for new screen
 ## Configuration
 
 - **Directory to Monitor**:
-  - By default, the script monitors `'/Users/aarongurovich/Desktop'`. You can change this path by modifying the `screenshot_path` variable in the `main` function.
+  - By default, the script monitors `'Your Path'`. You can change this path by modifying the `screenshot_path` variable in the `main` function.
   
 - **Discord Bot Token**:
   - Set your Discord bot token in the `TOKEN` variable.
