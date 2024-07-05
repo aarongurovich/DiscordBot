@@ -41,7 +41,7 @@ This project is a Discord bot that monitors a specified directory for new screen
     ```
 
 2. **Screenshots**:
-    - The bot will monitor the specified directory (default is `'/Users/aarongurovich/Desktop'`).
+    - The bot will monitor the specified directory
     - When a new screenshot is created or modified in this directory, it will be uploaded to the designated Discord channel.
 
 ## Configuration
